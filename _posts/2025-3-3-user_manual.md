@@ -2,7 +2,7 @@
 layout: post
 title: "docker命令大全"
 date:   2024-3-3
-tags: [notice]
+tags: [文章]
 comments: true
 author: luyuanbo
 ---
